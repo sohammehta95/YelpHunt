@@ -1,0 +1,23 @@
+#resize{
+    margin-top: -60px;
+    padding-top: -60px;
+	 margin-right: auto;
+  	margin-left: auto;
+    width: 200px;
+    height: 200px;
+
+    background-size: cover;
+    background-image: url(logo.png);
+    background-position: 55% 55%;
+    border-radius: 15px;
+}
+
+.mb-1{
+	margin-top: -20px;
+	padding-top: -50px;
+}
+
+#button{
+    margin-top: -60px;
+    padding-top: -60px;
+}
